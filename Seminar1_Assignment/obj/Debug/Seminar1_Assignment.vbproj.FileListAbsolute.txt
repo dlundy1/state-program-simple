@@ -1,0 +1,12 @@
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\bin\Debug\Seminar1_Assignment.exe.config
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\obj\Debug\Seminar1_Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\obj\Debug\Seminar1_Assignment.usa_lookup.resources
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\obj\Debug\Seminar1_Assignment.Resources.resources
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\obj\Debug\Seminar1_Assignment.vbproj.GenerateResource.Cache
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\obj\Debug\Seminar1_Assignment.xml
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\bin\Debug\Seminar1_Assignment.exe
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\bin\Debug\Seminar1_Assignment.pdb
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\bin\Debug\Seminar1_Assignment.xml
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\obj\Debug\Seminar1_Assignment.exe
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\obj\Debug\Seminar1_Assignment.pdb
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Seminar1_Assignment\Seminar1_Assignment\obj\Debug\Seminar1_Assignment.Form2.resources
